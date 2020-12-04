@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710107056432",
+    "firebase_url": "https://resola-9f05b.firebaseio.com",
+    "project_id": "resola-9f05b",
+    "storage_bucket": "resola-9f05b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710107056432:android:295d42c33fe73da5f5e0f5",
+        "android_client_info": {
+          "package_name": "com.resola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710107056432-5mn4u6k8pk2t6og19v99l1otgv4b2vt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZGHU0lY3_FxgGxnrWzfYtrIBS0UbCV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710107056432-5mn4u6k8pk2t6og19v99l1otgv4b2vt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
